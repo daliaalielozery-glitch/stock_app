@@ -20,6 +20,13 @@
 *   **Plotly:** For high-performance, interactive financial visualizations.
 *   **Pandas:** For complex financial data manipulation and analysis.
 
+  ## How to run it🤔
+  Make sure that you install ✔
+1-pip install streamlit yfinance pandas plotly 
+to run it ✔
+2-streamlit run app.py
+or if the terminal doesn't recognize streamlit ✔
+3-python -m streamlit run app.py
 ## 🚀 Installation & Setup
 
 Follow these steps to get the project running on your local machine without any errors:
